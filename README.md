@@ -3,12 +3,11 @@
 Flutter project
 
 ## Features
-Retrieve popular movies: Users can retrieve a list of popular movies from the TMDb API (https://developers.themoviedb.org/3), including movie posters, titles, release dates
-Movie details: Users can view detailed information about a movie, such as its overview, cast, runtime, rating and genres.
-Users can search for movies by title and filter movies by year and genre, and the app retrieves matching movie results from the TMDb API in real-time based on the applied filters.
-Search movies: Users can search for movies by title and apply filters on fetched movies by year and genre.
-Favorites: Users can mark movies as favorites, and the app stores these favorites locally
-State management with flutter_bloc: The app uses the flutter_bloc package to efficiently manage the app's state
+- Retrieve popular movies: Users can retrieve a list of popular movies from the TMDb API (https://developers.themoviedb.org/3), including movie posters, titles, release dates
+- Movie details: Users can view detailed information about a movie, such as its overview, cast, runtime, rating and genres.
+- Search movies: Users can search for movies by title and apply filters on fetched movies by year and genre.
+- Favorites: Users can mark movies as favorites, and the app stores these favorites locally
+- State management with flutter_bloc: The app uses the flutter_bloc package to efficiently manage the app's state
 
 ## Screenshots
 
